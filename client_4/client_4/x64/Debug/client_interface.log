@@ -1,0 +1,6 @@
+﻿  interact_with_server.cpp
+C:\Users\liran\Desktop\HIT\שנה ב\רשתות תקשורת מחשבים\client_4\interact_with_server.cpp(19,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liran\Desktop\HIT\שנה ב\רשתות תקשורת מחשבים\client_4\interact_with_server.cpp(40,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liran\Desktop\HIT\שנה ב\רשתות תקשורת מחשבים\client_4\interact_with_server.cpp(54,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\liran\Desktop\HIT\שנה ב\רשתות תקשורת מחשבים\client_4\interact_with_server.cpp(94,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client_interface.vcxproj -> C:\Users\liran\Desktop\HIT\שנה ב\רשתות תקשורת מחשבים\client_4\x64\Debug\client_4.exe
