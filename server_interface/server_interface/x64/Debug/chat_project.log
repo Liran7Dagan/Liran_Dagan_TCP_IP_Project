@@ -1,8 +1,0 @@
-﻿  interact_with_client.cpp
-C:\Users\liran\Desktop\server_interface\interact_with_client.cpp(9,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\liran\Desktop\server_interface\interact_with_client.cpp(24,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\liran\Desktop\server_interface\interact_with_client.cpp(65,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\liran\Desktop\server_interface\interact_with_client.cpp(136,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  server.cpp
-  Generating Code...
-  chat_project.vcxproj -> C:\Users\liran\Desktop\server_interface\x64\Debug\server_interface.exe
